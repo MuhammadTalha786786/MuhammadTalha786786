@@ -50,10 +50,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://muhammadtalha786786.github.io/portfolio/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-talha-b16520185/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/muhammad_talha_is_here/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/100012088272538"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://muhammadtalha786786.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-talha-b16520185/"><img src="https://img.shields.io/badge/-talha?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/muhammad_talha_is_here/"><img src="https://img.shields.io/badge/-@muhammad_talha_is_here?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/100012088272538"><img src="https://img.shields.io/badge/-Muhammad Talha?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
